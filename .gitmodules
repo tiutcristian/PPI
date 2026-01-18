@@ -1,0 +1,3 @@
+[submodule "LungCancerTool"]
+	path = LungCancerTool
+	url = https://github.com/tiutcristian/LungCancerTool
